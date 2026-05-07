@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/ramakrishna-rk7/ramakrishna-rk7/main/assets/github_banner.png" alt="Banner" />
+<img width="100%" src="github_banner.png" alt="Banner" />
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there, I'm Ramakrishna!
 
